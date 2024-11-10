@@ -1,5 +1,4 @@
 #username, password => database
-# "sadikturan", "123456"
 
 a,b,c,d=5,5,10,4
 password="1234"
