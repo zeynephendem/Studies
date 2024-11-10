@@ -20,13 +20,13 @@ print(plakalar)
 
 """
 users={
-    "sadikturan":36},
+    "zeynephendem":30},
 {
-    "cinarturan":2,
+    "zeynephendem":2,
     "address":"kocaeli",
     "phone":"1231321"
 }
-print(users["cinarturan"]["address"])
+print(users["zeynephendem"]["address"])
 """
 
 """
