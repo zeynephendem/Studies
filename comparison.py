@@ -2,11 +2,11 @@
 
 a,b,c,d=5,5,10,4
 password="1234"
-username="Zeynep Yılmaz"
+username="Zeynep Hendem"
 
 result=(a==b) #true
 result=(a==c)
-result=("zeynepyılmaz"==username)
+result=("zeynephendem"==username)
 result=(a!=b)
 result=(a!=c)
 
@@ -35,9 +35,9 @@ pozitifmi=(sayi>0)
 print(f"girilen sayının pozitif olma durumu:{pozitifmi}")
 
 #5- Parola ve email bilgisini isteyip doğruluğunu kontrol ediniz. 
-#   (email: email@zeynepyılmaz.com parola:abc123)
+#   (email: email@zeynephendem.com parola:abc123)
 
-email= "email@sadikturan.com "
+email= "email@zeynephendem.com "
 password= "abc123"
 
 email=input("email:")
