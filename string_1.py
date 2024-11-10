@@ -1,7 +1,7 @@
 """
-name="Sadık"
-surname="Turan"
-age=36
+name="Zeynep"
+surname="Hendem"
+age=20
 
 print("My name is " + name + " " + surname + " and I am " + str(age) + " years old.")
 """
@@ -9,8 +9,8 @@ print("My name is " + name + " " + surname + " and I am " + str(age) + " years o
 #Format
 
 """
-name="Çınar"
-surname="Turan"
+name="Zeynep"
+surname="Hendem"
 
 print("My name is {1} {0}".format(name,surname))  soyad başa gelir.
 print("My name is {} {}".format(name,surname)) isim başta olur.
@@ -22,7 +22,7 @@ result=200/500
 print("the result is {r}".format(r=result))
 """
 """
-website="http://www.sadikturan.com"
+website="http://www.zeynephendem.com"
 course="Python Kursu:Baştan Sona Python Programlama Rehberiniz (40 saat)"
 
 #1-"course" karakter dizisinde kaç karakter bulunur?
