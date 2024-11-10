@@ -24,7 +24,7 @@ result=(sayi>0) and (sayi%2==0)
 print(f"girilen sayı pozitif çift sayı mı:{result}")
 
 # # 3-Email ve parola bilgileri ile giriş kontrolü yapınız.
-email="email@sadikturan"
+email="email@zeynephendem"
 password="abc123"
 girilenEmail=input("email:")
 girilenPassword=input("password:")
