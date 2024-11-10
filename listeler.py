@@ -57,12 +57,12 @@ result=arabalar
 result=arabalar[::-1]
 
 #12- Aşağıdaki verileri bir liste içinde saklayınız.
-     #studentA:Yiğit Bilgi 2010, (70,60,70)
-     #studentB:Sena Turan 1999, (80,80,70)
-     #studentC:Ahmet Turaan 1998, (80,70,90)
-studentA=["Yiğit","Bilgi",2010,[70,60,70]]
-studentB=["Sena","Turan",1999,[80,80,70]]
-studentC=["Ahmet","Turan",1998,[80,70,90]]
+     #studentA:Yiğit Çelik 2010, (70,60,70)
+     #studentB:Sena Yılmaz 1999, (80,80,70)
+     #studentC:Ahmet Öztürk 1998, (80,70,90)
+studentA=["Yiğit","Çelik",2010,[70,60,70]]
+studentB=["Sena","Yılmaz",1999,[80,80,70]]
+studentC=["Ahmet","Öztürk",1998,[80,70,90]]
 
 #13- Liste elemanlarını ekrana yazdırın. 
 result=studentA
