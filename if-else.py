@@ -1,8 +1,8 @@
 """
-username="sadikturan"
+username="zeynephendem"
 password="1234"
 
-isLoggedin=(username=="sadikturan") and (password=="1234")
+isLoggedin=(username=="zeynephendem") and (password=="1234")
 
 if isLoggedin:
    print("Hoş geldiniz")
