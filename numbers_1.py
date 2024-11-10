@@ -10,10 +10,10 @@ musteriAd= "Zeynep"
 musteriSoyad= "Hendem"
 musteriAdSoyad= musteriAd+ ' ' +musteriSoyad
 musteriCinsiyet= True #Kadın
-musteriTC="56301948"
-musteriDogumYılı=2004
-musteriAdres="Üsküdar"
-musteriYas=20
+musteriTC="555444"
+musteriDogumYılı=1990
+musteriAdres="Konya"
+musteriYas=34
 
 #2-Siparişlerin toplam bilgisini hesaplayınız.
 siparis1= 110
